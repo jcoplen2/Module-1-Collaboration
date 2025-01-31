@@ -1,7 +1,7 @@
 #module 3 case study. Working with classes
 #author - jessi coplen
 #last updated 1/231/2025
-#description
+#this program allows the user to enter their vehicle details and then prints what the user entered. 
 
 #create parent class and add attribute
 class Vehicle():
